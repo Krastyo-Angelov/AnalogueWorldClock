@@ -18,8 +18,22 @@ class Clock {
     const hours = ((now.getHours() + now.getMinutes() / 60) / 12) * 360;
 
     //   UI Update
-    this.UI.date.textContent = now.getDate();
-    this.UI.am_pm.textContent = now.getHours() > 12 ? "pm" : "am";
+    let ending = "";
+    switch (now.getDate()) {
+      case 1:
+        ending = "st";
+        break;
+      case 2:
+        ending = "nd";
+        break;
+      case 3:
+        ending = "rd";
+        break;
+      default:
+        ending = "th";
+    }
+    this.UI.date.textContent = now.getDate() + ending;
+    this.UI.am_pm.textContent = now.getHours() > 12 ? `pm` : `am`;
     this.UI.second.style.transform = `rotate(${seconds}deg)`;
     this.UI.minute.style.transform = `rotate(${minutes}deg)`;
     this.UI.hour.style.transform = `rotate(${hours}deg)`;

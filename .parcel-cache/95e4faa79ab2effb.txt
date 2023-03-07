@@ -19,7 +19,7 @@
 85C:\Users\kangelov\Desktop\Projects\AnalogueWorldClock\node_modules\date-fns\esm\parse133225841198151879 1
 121C:\Users\kangelov\Desktop\Projects\AnalogueWorldClock\node_modules\date-fns\fp\eachMinuteOfIntervalWithOptions\index.d.ts133225841202597828 0
 107C:\Users\kangelov\Desktop\Projects\AnalogueWorldClock\node_modules\@parcel\core\lib\requests\PathRequest.js133225840788554595 0
-60C:\Users\kangelov\Desktop\Projects\AnalogueWorldClock\app.js133225872383377394 0
+60C:\Users\kangelov\Desktop\Projects\AnalogueWorldClock\app.js133226674571960720 0
 87C:\Users\kangelov\Desktop\Projects\AnalogueWorldClock\node_modules\picocolors\README.md133225840763989942 0
 88C:\Users\kangelov\Desktop\Projects\AnalogueWorldClock\node_modules\dotenv-expand\LICENSE133225840762604010 0
 66C:\Users\kangelov\Desktop\Projects\AnalogueWorldClock\package.json133225852637396428 0
@@ -36,7 +36,7 @@
 98C:\Users\kangelov\Desktop\Projects\AnalogueWorldClock\node_modules\date-fns\locale\ka\package.json133225841175806380 0
 91C:\Users\kangelov\Desktop\Projects\AnalogueWorldClock\node_modules\date-fns\esm\subQuarters133225841200332207 1
 156C:\Users\kangelov\Desktop\Projects\AnalogueWorldClock\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\.pnpm\source-pnpm@1.0.0\node_modules133225840776274969 1
-58C:\Users\kangelov\Desktop\Projects\AnalogueWorldClock\dist133225872549916472 1
+58C:\Users\kangelov\Desktop\Projects\AnalogueWorldClock\dist133226674572490602 1
 89C:\Users\kangelov\Desktop\Projects\AnalogueWorldClock\node_modules\parent-module\index.js133225840759911348 0
 107C:\Users\kangelov\Desktop\Projects\AnalogueWorldClock\node_modules\date-fns\fp\closestIndexTo\index.js.flow133225841069350553 0
 106C:\Users\kangelov\Desktop\Projects\AnalogueWorldClock\node_modules\svgo\plugins\cleanupEnableBackground.js133225840772022397 0
@@ -2453,7 +2453,7 @@
 97C:\Users\kangelov\Desktop\Projects\AnalogueWorldClock\node_modules\date-fns\esm\locale\ar-SA\_lib133225841094810996 1
 84C:\Users\kangelov\Desktop\Projects\AnalogueWorldClock\node_modules\picomatch\LICENSE133225840758767868 0
 108C:\Users\kangelov\Desktop\Projects\AnalogueWorldClock\node_modules\date-fns\fp\setWeekWithOptions\index.d.ts133225841208167436 0
-69C:\Users\kangelov\Desktop\Projects\AnalogueWorldClock\dist\index.html133225872549849015 0
+69C:\Users\kangelov\Desktop\Projects\AnalogueWorldClock\dist\index.html133226666107273142 0
 97C:\Users\kangelov\Desktop\Projects\AnalogueWorldClock\node_modules\date-fns\isFuture\package.json133225841173085238 0
 86C:\Users\kangelov\Desktop\Projects\AnalogueWorldClock\node_modules\picomatch\README.md133225840771964600 0
 105C:\Users\kangelov\Desktop\Projects\AnalogueWorldClock\node_modules\@parcel\watcher\prebuilds\darwin-arm64133225840781359722 1
@@ -2943,7 +2943,7 @@
 98C:\Users\kangelov\Desktop\Projects\AnalogueWorldClock\node_modules\date-fns\fp\parseISOWithOptions133225841206687840 1
 103C:\Users\kangelov\Desktop\Projects\AnalogueWorldClock\node_modules\date-fns\fp\endOfSecond\package.json133225841166776191 0
 83C:\Users\kangelov\Desktop\Projects\AnalogueWorldClock\node_modules\lmdb\src\txn.cpp133225840787063187 0
-81C:\Users\kangelov\Desktop\Projects\AnalogueWorldClock\dist\index.3a01df49.css.map133225872549881401 0
+81C:\Users\kangelov\Desktop\Projects\AnalogueWorldClock\dist\index.3a01df49.css.map133226666097324329 0
 108C:\Users\kangelov\Desktop\Projects\AnalogueWorldClock\node_modules\date-fns\locale\pt-BR\_lib\formatDistance133225841135421806 1
 92C:\Users\kangelov\Desktop\Projects\AnalogueWorldClock\node_modules\date-fns\esm\fp\closestTo133225841185191670 1
 113C:\Users\kangelov\Desktop\Projects\AnalogueWorldClock\node_modules\date-fns\esm\fp\differenceInDays\index.js.flow133225841059584842 0
@@ -7401,7 +7401,7 @@
 109C:\Users\kangelov\Desktop\Projects\AnalogueWorldClock\node_modules\date-fns\fp\isWithinInterval\index.js.flow133225841073052659 0
 99C:\Users\kangelov\Desktop\Projects\AnalogueWorldClock\node_modules\date-fns\fp\isWeekend\index.d.ts133225841205723900 0
 100C:\Users\kangelov\Desktop\Projects\AnalogueWorldClock\node_modules\date-fns\esm\locale\nb\index.d.ts133225841196439884 0
-76C:\Users\kangelov\Desktop\Projects\AnalogueWorldClock\dist\index.5baa4167.js133225872549871308 0
+76C:\Users\kangelov\Desktop\Projects\AnalogueWorldClock\dist\index.5baa4167.js133226674572442570 0
 97C:\Users\kangelov\Desktop\Projects\AnalogueWorldClock\node_modules\date-fns\fp\isWeekend\index.js133225841118478130 0
 102C:\Users\kangelov\Desktop\Projects\AnalogueWorldClock\node_modules\date-fns\fp\isWeekend\index.js.flow133225841073032633 0
 99C:\Users\kangelov\Desktop\Projects\AnalogueWorldClock\node_modules\date-fns\fp\isWednesday\index.js133225841118452638 0
@@ -10007,7 +10007,7 @@
 114C:\Users\kangelov\Desktop\Projects\AnalogueWorldClock\node_modules\date-fns\esm\fp\lastDayOfISOWeekYear\index.d.ts133225841189132325 0
 112C:\Users\kangelov\Desktop\Projects\AnalogueWorldClock\node_modules\date-fns\esm\fp\lastDayOfISOWeekYear\index.js133225841089891291 0
 116C:\Users\kangelov\Desktop\Projects\AnalogueWorldClock\node_modules\date-fns\esm\fp\lastDayOfISOWeekYear\package.json133225841154683015 0
-80C:\Users\kangelov\Desktop\Projects\AnalogueWorldClock\dist\index.5baa4167.js.map133225872549906415 0
+80C:\Users\kangelov\Desktop\Projects\AnalogueWorldClock\dist\index.5baa4167.js.map133226674572490602 0
 110C:\Users\kangelov\Desktop\Projects\AnalogueWorldClock\node_modules\date-fns\esm\fp\lastDayOfISOWeek\index.d.ts133225841189112295 0
 123C:\Users\kangelov\Desktop\Projects\AnalogueWorldClock\node_modules\@jridgewell\trace-mapping\dist\types\strip-filename.d.ts133225840774270991 0
 112C:\Users\kangelov\Desktop\Projects\AnalogueWorldClock\node_modules\date-fns\esm\fp\lastDayOfISOWeek\package.json133225841154651972 0
@@ -12481,4 +12481,4 @@
 78C:\Users\kangelov\Desktop\Projects\AnalogueWorldClock\node_modules\.bin\terser133225840807737406 0
 82C:\Users\kangelov\Desktop\Projects\AnalogueWorldClock\node_modules\.bin\terser.cmd133225840807737406 0
 82C:\Users\kangelov\Desktop\Projects\AnalogueWorldClock\node_modules\.bin\terser.ps1133225840807737406 0
-77C:\Users\kangelov\Desktop\Projects\AnalogueWorldClock\dist\index.3a01df49.css133225872549716027 0
+77C:\Users\kangelov\Desktop\Projects\AnalogueWorldClock\dist\index.3a01df49.css133226666097244426 0

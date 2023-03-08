@@ -1,6 +1,6 @@
 12483
 90D:\acer\Programming\Projects\AnalogueWorldClock\node_modules\weak-lru-cache\LRFUExpirer.js133226687489224716 0
-54D:\acer\Programming\Projects\AnalogueWorldClock\app.js133227497340725354 0
+54D:\acer\Programming\Projects\AnalogueWorldClock\app.js133227505207484970 0
 88D:\acer\Programming\Projects\AnalogueWorldClock\node_modules\css-tree\lib\utils\clone.js133226687452399174 0
 86D:\acer\Programming\Projects\AnalogueWorldClock\node_modules\node-addon-api\napi-inl.h133226687487678853 0
 69D:\acer\Programming\Projects\AnalogueWorldClock\node_modules\mdn-data133226687486920873 1
@@ -63,7 +63,7 @@
 99D:\acer\Programming\Projects\AnalogueWorldClock\node_modules\date-fns\esm\locale\bn\_lib\formatLong133226687462840433 1
 93D:\acer\Programming\Projects\AnalogueWorldClock\node_modules\date-fns\getQuarter\package.json133226687478532028 0
 98D:\acer\Programming\Projects\AnalogueWorldClock\node_modules\date-fns\esm\yearsToQuarters\index.js133226687466376198 0
-52D:\acer\Programming\Projects\AnalogueWorldClock\dist133227497341500244 1
+52D:\acer\Programming\Projects\AnalogueWorldClock\dist133227505208094498 1
 102D:\acer\Programming\Projects\AnalogueWorldClock\node_modules\date-fns\esm\locale\zh-HK\_lib\formatLong133226687465348951 1
 94D:\acer\Programming\Projects\AnalogueWorldClock\node_modules\date-fns\yearsToMonths\index.d.ts133226687484242533 0
 112D:\acer\Programming\Projects\AnalogueWorldClock\node_modules\date-fns\esm\locale\kk\_lib\formatRelative\index.js133226687464142177 0
@@ -88,7 +88,7 @@
 101D:\acer\Programming\Projects\AnalogueWorldClock\node_modules\date-fns\esm\fp\nextFriday\index.js.flow133226687460807467 0
 60D:\acer\Programming\Projects\AnalogueWorldClock\node_modules133226687489284550 1
 85D:\acer\Programming\Projects\AnalogueWorldClock\node_modules\@lezer\lr\dist\index.cjs133226687430016240 0
-57D:\acer\Programming\Projects\AnalogueWorldClock\style.css133226687489444120 0
+57D:\acer\Programming\Projects\AnalogueWorldClock\style.css133227499977851658 0
 98D:\acer\Programming\Projects\AnalogueWorldClock\node_modules\date-fns\esm\intlFormat\index.js.flow133226687461966836 0
 99D:\acer\Programming\Projects\AnalogueWorldClock\node_modules\date-fns\esm\endOfMinute\index.js.flow133226687458693129 0
 91D:\acer\Programming\Projects\AnalogueWorldClock\node_modules\date-fns\minutesToMilliseconds133226687483320697 1
@@ -3716,7 +3716,7 @@
 92D:\acer\Programming\Projects\AnalogueWorldClock\node_modules\date-fns\locale\it\package.json133226687481454635 0
 94D:\acer\Programming\Projects\AnalogueWorldClock\node_modules\date-fns\esm\fp\toDate\index.d.ts133226687461515580 0
 85D:\acer\Programming\Projects\AnalogueWorldClock\node_modules\entities\lib\encode.d.ts133226687484631493 0
-63D:\acer\Programming\Projects\AnalogueWorldClock\dist\index.html133227494643926316 0
+63D:\acer\Programming\Projects\AnalogueWorldClock\dist\index.html133227499982366139 0
 84D:\acer\Programming\Projects\AnalogueWorldClock\node_modules\date-fns\esm\isThisHour133226687462246095 1
 111D:\acer\Programming\Projects\AnalogueWorldClock\node_modules\@parcel\transformer-babel\src\remapAstLocations.js133226687437013422 0
 93D:\acer\Programming\Projects\AnalogueWorldClock\node_modules\date-fns\isSaturday\package.json133226687478950908 0
@@ -4126,7 +4126,7 @@
 84D:\acer\Programming\Projects\AnalogueWorldClock\node_modules\date-fns\locale\th\_lib133226687482931747 1
 91D:\acer\Programming\Projects\AnalogueWorldClock\node_modules\date-fns\subYears\package.json133226687484212617 0
 105D:\acer\Programming\Projects\AnalogueWorldClock\node_modules\date-fns\parse\_lib\parsers\ISOWeekParser.js133226687483510209 0
-75D:\acer\Programming\Projects\AnalogueWorldClock\dist\index.3a01df49.css.map133227496648052834 0
+75D:\acer\Programming\Projects\AnalogueWorldClock\dist\index.3a01df49.css.map133227504891545711 0
 83D:\acer\Programming\Projects\AnalogueWorldClock\node_modules\date-fns-tz\esm\toDate133226687453167910 1
 90D:\acer\Programming\Projects\AnalogueWorldClock\node_modules\date-fns\locale\ta\_lib\match133226687482881879 1
 91D:\acer\Programming\Projects\AnalogueWorldClock\node_modules\date-fns-tz\esm\utcToZonedTime133226687453177872 1
@@ -5929,7 +5929,7 @@
 110D:\acer\Programming\Projects\AnalogueWorldClock\node_modules\date-fns\esm\fp\differenceInMilliseconds\index.js133226687459271579 0
 93D:\acer\Programming\Projects\AnalogueWorldClock\node_modules\date-fns\locale\it-CH\index.d.ts133226687481414747 0
 95D:\acer\Programming\Projects\AnalogueWorldClock\node_modules\date-fns\locale\it-CH\package.json133226687481424722 0
-71D:\acer\Programming\Projects\AnalogueWorldClock\dist\index.3a01df49.css133227496648032898 0
+71D:\acer\Programming\Projects\AnalogueWorldClock\dist\index.3a01df49.css133227504891505793 0
 88D:\acer\Programming\Projects\AnalogueWorldClock\node_modules\date-fns\isSameDay\index.js133226687478831228 0
 97D:\acer\Programming\Projects\AnalogueWorldClock\node_modules\date-fns\esm\isWeekend\index.js.flow133226687462381691 0
 87D:\acer\Programming\Projects\AnalogueWorldClock\node_modules\date-fns\locale\it-CH\_lib133226687481404770 1
@@ -12480,5 +12480,5 @@
 74D:\acer\Programming\Projects\AnalogueWorldClock\node_modules\.bin\svgo.cmd133226687429187072 0
 76D:\acer\Programming\Projects\AnalogueWorldClock\node_modules\.bin\terser.cmd133226687429197036 0
 76D:\acer\Programming\Projects\AnalogueWorldClock\node_modules\.bin\terser.ps1133226687429207006 0
-70D:\acer\Programming\Projects\AnalogueWorldClock\dist\index.5baa4167.js133227497341478299 0
-74D:\acer\Programming\Projects\AnalogueWorldClock\dist\index.5baa4167.js.map133227497341490278 0
+70D:\acer\Programming\Projects\AnalogueWorldClock\dist\index.5baa4167.js133227505208054614 0
+74D:\acer\Programming\Projects\AnalogueWorldClock\dist\index.5baa4167.js.map133227505208094498 0

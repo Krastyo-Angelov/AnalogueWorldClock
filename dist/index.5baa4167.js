@@ -608,7 +608,47 @@ class Clock {
             default:
                 ending = "-ти";
         }
+        let month = "";
+        switch(now.getMonth() + 1){
+            case 1:
+                month = "януари";
+                break;
+            case 2:
+                month = "февруари";
+                break;
+            case 3:
+                month = "март";
+                break;
+            case 4:
+                month = "април";
+                break;
+            case 5:
+                month = "май";
+                break;
+            case 6:
+                month = "юни";
+                break;
+            case 7:
+                month = "юли";
+                break;
+            case 8:
+                month = "август";
+                break;
+            case 9:
+                month = "септември";
+                break;
+            case 10:
+                month = "октомври";
+                break;
+            case 11:
+                month = "ноември";
+                break;
+            case 12:
+                month = "декември";
+                break;
+        }
         this.UI.date.textContent = now.getDate() + ending;
+        this.UI.month.textContent = month;
         this.UI.am_pm.textContent = now.getHours() > 12 ? `предиобед` : `следобед`;
         this.UI.second.style.transform = `rotate(${seconds}deg)`;
         this.UI.minute.style.transform = `rotate(${minutes}deg)`;
@@ -625,14 +665,16 @@ class Clock {
         <circle class="ring ring--seconds" r="145" pathlength="60" />
         <circle class="ring ring--hours" r="145" pathlength="12" />
         <circle class="ring ring--center" r="3" />
-        <text x="50" y="-5" class="date">23</text>
-        <text x="50" y="10" class="am-pm">am</text>
+        <text x="35" y="-15" class="date">23</text>
+        <text x="35" y="5" class="month">април</text>
+        <text x="35" y="22" class="am-pm">am</text>
         <line class="hand hand--minute" x1="0" y1="2" x2="0" y2="-110" />
         <line class="hand hand--hour" x1="0" y1="2" x2="0" y2="-60" />
         <line class="hand hand--second" x1="0" y1="12" x2="0" y2="-130" />
       </svg>`;
         this.UI.date = this.clockEl.querySelector(".date");
         this.UI.am_pm = this.clockEl.querySelector(".am-pm");
+        this.UI.month = this.clockEl.querySelector(".month");
         this.UI.second = this.clockEl.querySelector(".hand--second");
         this.UI.minute = this.clockEl.querySelector(".hand--minute");
         this.UI.hour = this.clockEl.querySelector(".hand--hour");

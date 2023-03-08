@@ -79,9 +79,9 @@ body {
   transform: rotate(45deg);
 }
 
-.date {
+.date, .month {
   fill: var(--white);
-  font-size: 1.5rem;
+  font-size: 1.4rem;
 }
 
 .am-pm {

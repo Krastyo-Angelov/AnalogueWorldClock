@@ -576,19 +576,40 @@ class Clock {
         let ending = "";
         switch(now.getDate()){
             case 1:
-                ending = "st";
+                ending = "-ви";
                 break;
             case 2:
-                ending = "nd";
+                ending = "-ри";
                 break;
-            case 3:
-                ending = "rd";
+            case 7:
+                ending = "-ми";
+                break;
+            case 8:
+                ending = "-ми";
+                break;
+            case 2:
+                ending = "-ри";
+                break;
+            case 21:
+                ending = "-ви";
+                break;
+            case 22:
+                ending = "-ри";
+                break;
+            case 27:
+                ending = "-ми";
+                break;
+            case 28:
+                ending = "-ми";
+                break;
+            case 31:
+                ending = "-ви";
                 break;
             default:
-                ending = "th";
+                ending = "-ти";
         }
         this.UI.date.textContent = now.getDate() + ending;
-        this.UI.am_pm.textContent = now.getHours() > 12 ? `pm` : `am`;
+        this.UI.am_pm.textContent = now.getHours() > 12 ? `предиобед` : `следобед`;
         this.UI.second.style.transform = `rotate(${seconds}deg)`;
         this.UI.minute.style.transform = `rotate(${minutes}deg)`;
         this.UI.hour.style.transform = `rotate(${hours}deg)`;

@@ -1,4 +1,4 @@
-import { utcToZonedTime } from "date-fns-tz";
+import { utcToZonedTime } from 'date-fns-tz';
 
 class Clock {
   constructor(el) {
@@ -18,22 +18,43 @@ class Clock {
     const hours = ((now.getHours() + now.getMinutes() / 60) / 12) * 360;
 
     //   UI Update
-    let ending = "";
+    let ending = '';
     switch (now.getDate()) {
       case 1:
-        ending = "st";
+        ending = '-ви';
         break;
       case 2:
-        ending = "nd";
+        ending = '-ри';
         break;
-      case 3:
-        ending = "rd";
+      case 7:
+        ending = '-ми';
+        break;
+      case 8:
+        ending = '-ми';
+        break;
+      case 2:
+        ending = '-ри';
+        break;
+      case 21:
+        ending = '-ви';
+        break;
+      case 22:
+        ending = '-ри';
+        break;
+      case 27:
+        ending = '-ми';
+        break;
+      case 28:
+        ending = '-ми';
+        break;
+      case 31:
+        ending = '-ви';
         break;
       default:
-        ending = "th";
+        ending = '-ти';
     }
     this.UI.date.textContent = now.getDate() + ending;
-    this.UI.am_pm.textContent = now.getHours() > 12 ? `pm` : `am`;
+    this.UI.am_pm.textContent = now.getHours() > 12 ? `предиобед` : `следобед`;
     this.UI.second.style.transform = `rotate(${seconds}deg)`;
     this.UI.minute.style.transform = `rotate(${minutes}deg)`;
     this.UI.hour.style.transform = `rotate(${hours}deg)`;
@@ -56,14 +77,14 @@ class Clock {
         <line class="hand hand--hour" x1="0" y1="2" x2="0" y2="-60" />
         <line class="hand hand--second" x1="0" y1="12" x2="0" y2="-130" />
       </svg>`;
-    this.UI.date = this.clockEl.querySelector(".date");
-    this.UI.am_pm = this.clockEl.querySelector(".am-pm");
-    this.UI.second = this.clockEl.querySelector(".hand--second");
-    this.UI.minute = this.clockEl.querySelector(".hand--minute");
-    this.UI.hour = this.clockEl.querySelector(".hand--hour");
+    this.UI.date = this.clockEl.querySelector('.date');
+    this.UI.am_pm = this.clockEl.querySelector('.am-pm');
+    this.UI.second = this.clockEl.querySelector('.hand--second');
+    this.UI.minute = this.clockEl.querySelector('.hand--minute');
+    this.UI.hour = this.clockEl.querySelector('.hand--hour');
     requestAnimationFrame(this.updateClock);
   }
 }
 
-const clocks = document.querySelectorAll(".clock");
-clocks.forEach((el) => new Clock(el));
+const clocks = document.querySelectorAll('.clock');
+clocks.forEach(el => new Clock(el));
